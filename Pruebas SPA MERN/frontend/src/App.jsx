@@ -1,5 +1,6 @@
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+// Codigo funcionando pero no verifica el token el backend
 
+import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
 //Components
 import Navbar from "./components/Navbar.jsx";
